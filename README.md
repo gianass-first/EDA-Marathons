@@ -1,8 +1,6 @@
 # 🏃‍♂️ ¿What Factors Determine Performance in the World Marathon Majors?
 
-<p align="center">
-  <img src="images/cover.png" width="700">
-</p>
+<img src="src/images/cover.png" width="700">
 
 ### An Exploratory Data Analysis of London Marathon & World Marathon Majors
 
