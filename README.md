@@ -1,4 +1,4 @@
-# ¿What Factors Determine Performance in the World Marathon Majors?
+# What Factors Determine Performance in the World Marathon Majors?
 
 <img src="src/images/cover.png" width="900">
 
