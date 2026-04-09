@@ -181,23 +181,3 @@ The following hypotheses were tested:
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-marathon-eda/
-│
-├── src/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   ├── images/
-│   ├── reports/
-│   └── memoria.ipynb
-│
-├── main.py
-├── pyproject.toml
-├── README.md
-├── sources.md
-└── uv.lock
-```
-
